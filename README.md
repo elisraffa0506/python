@@ -1,0 +1,1 @@
+La visualización del ebook se realiza mediante una aplicación escrita con Python. Este proyecto “Las Aventuras de Caio: un autista en el mundo” es un libro que cuenta su visión de la vida y del mundo a través de sus ojos. El ebook será publicado en Amazon el 25 de junio de 2026.
